@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = app/sbcntr-frontend
 	url = https://github.com/uma-arai/sbcntr-frontend
+[submodule "backend"]
+	path = app/sbcntr-backend
+	url = https://github.com/uma-arai/sbcntr-backend
